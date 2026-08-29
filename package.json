@@ -1,0 +1,9 @@
+{
+  "name": "integrax-root",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bash run.sh",
+    "build": "make build",
+    "test": "make test"
+  }
+}
